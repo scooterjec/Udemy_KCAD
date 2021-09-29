@@ -37,3 +37,4 @@ Example:
 ```sh
 kubectl create namespace test-123 --dry-run -o yaml > ns-test-123.yaml
 ```
+More info [here](https://kubernetes.io/docs/reference/kubectl/overview/) and [here](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
